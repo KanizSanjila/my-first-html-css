@@ -1,0 +1,39 @@
+header{
+    background-image: url('/images/cover.avif');
+    height: 585px;
+    /* width: 1500px; */
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+    font-family: cursive;
+}
+span{
+  color: orange;
+}
+p, ul{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+li{
+    display: inline;
+   
+}
+
+a{
+    
+    color: white;
+}
+button{
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}

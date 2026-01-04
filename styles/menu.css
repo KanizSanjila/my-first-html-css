@@ -1,0 +1,25 @@
+.center{
+    text-align: center;
+}
+
+.menu{
+    /* display: inline-block; */
+    /* border: 2px solid skyblue; */
+}
+
+.item{
+    border: 1px solid violet;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 10px black;
+}
+
+button{
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
