@@ -1,5 +1,5 @@
 header{
-    background-image: url('./images/cover.avif');
+    background-image: url('../public/cover.avif');
     height: 585px;
     width: 100%;
     background-repeat: no-repeat;
