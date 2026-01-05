@@ -5,6 +5,20 @@ h1{
 section{
     border: 1px solid tan;
 }
-div{
+.form{
+    display: flex;
     align-items: center;
+    flex-direction: column;
+    border: 5px solid rgb(26, 6, 26);
+    margin: 0px 300px 20px;
+    padding: 20px;
+    color: white;
+    background-color: rgb(180, 176, 176);
+    border-radius: 20px;
+
+}
+
+.form:hover{
+    background-color: #bd4b4b;
+    box-shadow: 10px 5px 20px rgb(8, 63, 146);
 }
