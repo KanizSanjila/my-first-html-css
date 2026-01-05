@@ -5,6 +5,13 @@
 .menu{
     /* display: inline; */
     /* border: 2px solid skyblue; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image{
+    width: 250px;
+    height: 250px;
 }
 
 .item{
